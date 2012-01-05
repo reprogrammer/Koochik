@@ -16,7 +16,7 @@
 // @include       http://mail.google.com/*
 // @include       https://mail.google.com/*
 // ==/UserScript==
-GM_log('Loaded Gmail TinyUrl...');
+GM_log('Loaded Koochick...');
 
 var is_ctrlkey = false;
 var is_shiftkey = false;
